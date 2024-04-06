@@ -225,24 +225,9 @@ if(__name__ == "__main__"):
 
     # Keywords (seperated by -)
     keywords = [
-        "bred-toe",
-        "gold-toe",
-        "pharrell",
-        "free-throw-line",
-        "kendrick",
-        "tinker",
-        "game-royal",
-        "yeezy",
-        "human-race",
-        "big-bang",
-        "dont-trip",
-        "kung-fu-kenny",
-        "playstation",
-        "valentine",
-        "ovo-air-jordan",
-        "ovo-jordan",
-        "air-jordan-1",
-        "wotherspoon"
+        "One Piece",
+        "One-Piece",
+        "Pokemon",
     ]
     
     # Load sites from file
