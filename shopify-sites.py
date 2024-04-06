@@ -267,34 +267,9 @@ if(__name__ == "__main__"):
 
     # Initialize settings
     keywords = [
-        "bred toe",
-        "gold toe",
-        "pharrell",
-        "holi",
-        "free throw line",
-        "kendrick",
-        "tinker",
-        "game royal",
-        "yeezy",
-        "human race",
-        "big bang",
-        "dont trip",
-        "don't trip",
-        "kung fu kenny",
-        "playstation",
-        "ovo air jordan",
-        "ovo jordan",
-        "wotherspoon",
-        "nike x off-white",
-        "off-white x nike",
-        "air jordan 1",
-        "wave runner",
-        "katrina",
-        "animal pack",
-        "acronym",
-        "vf sw",
-        "the ten",
-        "the 10"
+        "One Piece",
+        "One-Piece",
+        "Pokemon",
         ]
 
     webhook = ""  # Put your webhook link here
