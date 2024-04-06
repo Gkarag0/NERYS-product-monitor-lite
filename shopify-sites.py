@@ -268,7 +268,6 @@ if(__name__ == "__main__"):
     # Initialize settings
     keywords = [
         "One Piece",
-        "One-Piece",
         "Pokemon",
         ]
 
