@@ -225,7 +225,6 @@ if(__name__ == "__main__"):
 
     # Keywords (seperated by -)
     keywords = [
-        "One Piece",
         "One-Piece",
         "Pokemon",
     ]
