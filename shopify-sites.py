@@ -201,7 +201,7 @@ def update_shopify_db(keywords, site, proxy_list):
                                 working = False
     
                         # If the site/proxy is working
-                        if(working):
+                        if(working):"https://discord.com/api/webhooks/1225372611794440292/0HWRWIv4Djw2EhVehLc-TToUS8chonpjz37-OZU5JUvG2v7YqlVKb-6vYU4-uMUA7hWV"
                             # Break down the product page
                             xml = soup(r.text, "xml")
     
